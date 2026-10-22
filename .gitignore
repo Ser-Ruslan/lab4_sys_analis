@@ -1,2 +1,5 @@
 /lab2_variant1.py
 /main.py
+.lab5_tmp/
+.venv_lab5/
+__pycache__/
