@@ -1,0 +1,6 @@
+Alternative,f1_Variance_max,f2_PipelineTime_min,f3_NodeCost_min
+Pipeline_Full,95,90,15
+Pipeline_Fast,82,20,3
+Pipeline_Smart,89,45,8
+Pipeline_Optimized,91,35,10
+Pipeline_Base,85,30,5

@@ -1,0 +1,6 @@
+Alternative,f1_IoU_max,f2_Latency_min,f3_Power_min
+Drive_Net_Max,91,45,35
+Drive_Net_Eco,82,20,12
+Drive_Net_Balanced,86,30,20
+Drive_Net_V2,88,25,25
+Drive_Net_Legacy,80,35,18

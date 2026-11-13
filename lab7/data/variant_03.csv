@@ -1,0 +1,6 @@
+Alternative,f1_Tflops_max,f2_Power_min,f3_Price_min
+Cluster_Node_1,320,1.2,4500
+Cluster_Node_2,450,1.8,6000
+Cluster_Node_3,280,0.9,3800
+Cluster_Node_4,500,2.4,7500
+Cluster_Node_5,400,1.5,5200

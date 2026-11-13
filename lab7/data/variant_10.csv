@@ -1,0 +1,6 @@
+Alternative,f1_F1_max,f2_Throughput_max,f3_IntegrationCost_min
+NLP_Mod_API,0.91,1500,40
+NLP_Mod_Local,0.85,4000,160
+NLP_Mod_Hybrid,0.88,2500,100
+NLP_Mod_V2,0.89,1800,60
+NLP_Mod_Base,0.82,3000,80

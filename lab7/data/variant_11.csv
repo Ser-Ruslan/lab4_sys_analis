@@ -1,0 +1,6 @@
+Alternative,f1_TaskRate_max,f2_APICalls_min,f3_PlanTime_min
+Agent_Zero,76,12,3
+Agent_ReAct,85,25,8
+Agent_Plan_Solve,89,40,15
+Agent_Reflex,80,18,5
+Agent_Custom,83,22,9

@@ -1,0 +1,6 @@
+Alternative,f1_SLA_max,f2_Speed_max,f3_Cost_min
+Cloud_Provider_A,99.99,10,25
+Cloud_Provider_B,99.95,15,20
+Cloud_Provider_C,99.90,20,18
+Cloud_Provider_D,99.50,8,12
+Cloud_Provider_E,99.99,12,24

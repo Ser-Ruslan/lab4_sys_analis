@@ -1,0 +1,6 @@
+Alternative,f1_mAP_max,f2_FPS_max,f3_Size_min
+YOLO_Tiny,74,60,15
+YOLO_Medium,82,35,45
+YOLO_Large,87,18,90
+Custom_Net_A,79,40,30
+Custom_Net_B,81,25,28

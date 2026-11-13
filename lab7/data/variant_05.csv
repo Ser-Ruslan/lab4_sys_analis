@@ -1,0 +1,6 @@
+Alternative,f1_HitRate_max,f2_BuildTime_min,f3_QPS_max
+Engine_Elastic,0.82,15,450
+Engine_Faiss,0.88,45,1200
+Engine_Chroma,0.79,8,300
+Engine_Milvus,0.86,30,950
+Engine_Qdrant,0.85,20,1100

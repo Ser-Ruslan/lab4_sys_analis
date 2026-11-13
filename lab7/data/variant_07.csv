@@ -1,0 +1,6 @@
+Alternative,f1_Recall_max,f2_FPR_min,f3_CPU_min
+Lib_Anom_A,0.92,0.04,22
+Lib_Anom_B,0.88,0.02,14
+Lib_Anom_C,0.85,0.01,10
+Lib_Anom_D,0.95,0.06,35
+Lib_Anom_E,0.89,0.03,18

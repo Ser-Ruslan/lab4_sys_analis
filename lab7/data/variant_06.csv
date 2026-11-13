@@ -1,0 +1,6 @@
+Alternative,f1_ROCAUC_max,f2_TrainTime_min,f3_Interpretability_max
+Config_Deep_NN,0.89,120,3
+Config_LightGBM,0.87,15,8
+Config_Ensemble,0.91,240,2
+Config_Shallow_NN,0.82,45,6
+Config_Optimized,0.86,30,7

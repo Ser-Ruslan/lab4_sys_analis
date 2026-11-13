@@ -1,0 +1,6 @@
+Alternative,f1_Accuracy_max,f2_Latency_min,f3_Cost_min
+Model_Alpha,85,45,120
+Model_Beta,82,30,150
+Model_Gamma,78,20,90
+Model_Delta,88,60,200
+Model_Epsilon,80,25,110
